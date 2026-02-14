@@ -1,6 +1,6 @@
 ## taag.app - Simplifying visual product link sharing for content creators.
 
-[taag.app](https://www.taag.app) is a creator commerce platform that enables influencers, creators, and sellers to transform images into interactive, monetized, shoppable experiences — all through a single shareable link.
+[taag.app](https://www.taag.app) is an AI creator commerce platform that enables influencers, creators, and sellers to transform images into interactive, monetized, shoppable experiences — all through a single shareable link.
 
 We help creators turn engagement into revenue by making visual content instantly shoppable.
 
