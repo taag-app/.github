@@ -1,4 +1,6 @@
-## Hi there 👋
+## taag.app - Simplifying visual product link sharing for content creators.
+
+(taag.app)[https://www.taag.app] is a creator commerce platform that enables influencers and sellers to share monetized product links across social media and messaging apps.
 
 <!--
 
